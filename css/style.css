@@ -1,0 +1,11 @@
+.head {
+  margin-top: 50px;
+}
+
+.title {
+  margin-bottom: 1.5em;
+}
+
+#movies img, #movie img {
+  width: 100%;
+}
